@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636590414 source:/home/martin/Escritorio/C/RepasandoIF/main.c
+	<stdio.h>
+	<stdlib.h>
+

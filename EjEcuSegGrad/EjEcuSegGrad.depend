@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632524250 source:/home/martin/Escritorio/C/EjEcuSegGrad/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
