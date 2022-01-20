@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/C/Sec3ParOimpar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/C/Sec3ParOimpar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/C/Sec3ParOimpar/cmake-build-debug/CMakeFiles/Sec3ParOimpar.dir
